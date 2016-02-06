@@ -1,0 +1,24 @@
+Name,10k para (publicly accessible),Undistributed Offshore,Taxes Owed,Intangibles listed,Market Cap,Market Cap Source,NTA ,NTA & Intangibles source
+Bristol-Myers Squibb,"The effective tax rate is lower than the U.S. statutory rate of 35% primarily attributable to undistributed earnings of certain foreign subsidiaries that have been considered or are expected to be indefinitely reinvested offshore. U.S. taxes have not been provided on approximately $24 billion of undistributed earnings of foreign subsidiaries as of December 31, 2014.",24000000000,8400000000,1700000000,105000000000,http://finance.yahoo.com/q?s=BMY,6000000000,https://finance.yahoo.com/q/bs?s=BMY+Balance+Sheet&annual
+Pfizer,"As of December 31, 2014, we have not made a U.S. tax provision on approximately $74.0 billion of unremitted earnings of our international subsidiaries. As these earnings are intended to be indefinitely reinvested overseas, the determination of a hypothetical unrecognized deferred tax liability as of December 31, 2014, is not practicable",74000000000,25900000000,35000000000,191300000000,http://finance.yahoo.com/q?s=PFE,-5934000,https://finance.yahoo.com/q/bs?s=PFE+Balance+Sheet&annual
+Eli Lilly,"At December 31, 2013 , U.S. income taxes have not been provided on approximately $23.74 billion of unremitted earnings of foreign subsidiaries as we consider these unremitted earnings to be indefinitely invested for continued use in our foreign operations.",23740000000,8200000000,2800000000,85100000000,http://finance.yahoo.com/q?s=LLY&fr=uh3_finance_vert_gs&type=2button&uhb=uhb2,10700000000,https://finance.yahoo.com/q/bs?s=LLY+Balance+Sheet&annual
+Merck,"At December 31, 2014, foreign earnings of $60.0 billion have been retained indefinitely by subsidiary companies for reinvestment; therefore, no provision has been made for income taxes that would be payable upon the distribution of such earnings and it would not be practicable to determine the amount of the related unrecognized deferred income tax liability.",60000000000,21000000000,20300000000,144500000000,http://finance.yahoo.com/q?s=MRK,15200000000,https://finance.yahoo.com/q/bs?s=MRK+Balance+Sheet&annual
+Abbott ,"Undistributed earnings reinvested indefinitely in foreign subsidiaries as working capital and plant and equipment aggregated $23.0 billion at December 31, 2014",23000000000,8050000000,6100000000,61400000000,http://finance.yahoo.com/q?s=ABT,5200000000,https://finance.yahoo.com/q/bs?s=ABT+Balance+Sheet&annual
+Novartis,"At December 31, 2014, unremitted earnings of USD 55 billion (2013: USD 48 billion) have been retained by consolidated entities for reinvestment.",55000000000,19200000000,23800000000,197000000000,https://finance.yahoo.com/q/ks?s=NVS+Key+Statistics,17600000000,https://finance.yahoo.com/q/bs?s=NVS+Balance+Sheet&annual
+Abbvie,Deferred income taxes have not been provided on approximately $23 billion of the undistributed earnings of foreign subsidiaries as these earnings have been indefinitely reinvested for continued use in foreign operations.,23000000000,8050000000,1500000000,83600000000,http://finance.yahoo.com/q?s=ABBV,-5633000,https://finance.yahoo.com/q/bs?s=ABBV+Balance+Sheet&annual
+Amgen,"At December 31, 2014, the cumulative amount of these earnings was approximately $29.3 billion. If these earnings were repatriated to the United States, we would be required to accrue and pay approximately $10.5 billion of additional income taxes based on the current tax rates in effect.",29300000000,10500000000,12600000000,109700000000,http://finance.yahoo.com/q?s=AMGN,-1703000,https://finance.yahoo.com/q/bs?s=AMGN+Balance+Sheet&annual
+J&J,"At December 28, 2014, the cumulative amounts of undistributed international earnings was approximately $53.4 billion, respectively",53400000000,18600000000,27200000000,268000000000,http://finance.yahoo.com/q?s=JNJ,20600000000,https://finance.yahoo.com/q/bs?s=JNJ+Balance+Sheet&annual
+Total:,,365440000000,127900000000,131000000000,1140600000000,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,Bristol-Myers Squibb,105000000000,,,,
+,,,Pfizer,191300000000,=D2/C2,=D2/C2,,
+,,,Eli Lilly,85100000000,,,,
+,,,Merck,144500000000,,,,
+,,,Abbott,61400000000,,,,
+,,,Novartis,197000000000,,=D2/C2,,
+,,,Abbvie,83600000000,,,,
+,,,Amgen,109700000000,,,,
+,,,J&J,268000000000,,,,
